@@ -11,11 +11,11 @@
 
 
 
-![Bribe Efficiency Tracker](images/exercises/exercise_11/ex11_02_bribe_efficiency_tracker.png)
+![Bribe Efficiency Tracker](https://storage.googleapis.com/liquidity-provision-gitbook-images/exercises/exercise_11/ex11_02_bribe_efficiency_tracker.png)
 
 
 
-![ve-Token Strategy Planner](images/exercises/exercise_11/ex11_01_ve-token_strategy_planner.png)
+![ve-Token Strategy Planner](https://storage.googleapis.com/liquidity-provision-gitbook-images/exercises/exercise_11/ex11_01_ve-token_strategy_planner.png)
 
 ### Lock Strategy
 

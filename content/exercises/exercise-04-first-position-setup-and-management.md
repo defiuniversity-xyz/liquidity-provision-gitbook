@@ -11,11 +11,11 @@
 
 
 
-![Position Tracking Template](images/exercises/exercise_04/ex04_02_position_tracking_template.png)
+![Position Tracking Template](https://storage.googleapis.com/liquidity-provision-gitbook-images/exercises/exercise_04/ex04_02_position_tracking_template.png)
 
 
 
-![Pre-Deposit Planning Worksheet](images/exercises/exercise_04/ex04_01_pre-deposit_planning_worksheet.png)
+![Pre-Deposit Planning Worksheet](https://storage.googleapis.com/liquidity-provision-gitbook-images/exercises/exercise_04/ex04_01_pre-deposit_planning_worksheet.png)
 
 ### Position Planning Worksheet
 

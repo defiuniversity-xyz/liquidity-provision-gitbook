@@ -11,11 +11,11 @@
 
 
 
-![Gas Cost Comparison and Optimization](images/exercises/exercise_07/ex07_02_gas_cost_comparison_and_optimization.png)
+![Gas Cost Comparison and Optimization](https://storage.googleapis.com/liquidity-provision-gitbook-images/exercises/exercise_07/ex07_02_gas_cost_comparison_and_optimization.png)
 
 
 
-![Fee Tier Selection Guide](images/exercises/exercise_07/ex07_01_fee_tier_selection_guide.png)
+![Fee Tier Selection Guide](https://storage.googleapis.com/liquidity-provision-gitbook-images/exercises/exercise_07/ex07_01_fee_tier_selection_guide.png)
 
 ### Fee Tier Selection Exercise
 

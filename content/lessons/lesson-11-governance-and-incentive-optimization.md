@@ -36,7 +36,7 @@ In ve-token models (Aerodrome, Curve, Velodrome), liquidity provision becomes a 
 - Receive bribes from protocols
 
 
-![ve-Token Model Complete Flow](images/lessons/lesson_11/lp11_01_ve-token_model_complete_flow.png)
+![ve-Token Model Complete Flow](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_11/lp11_01_ve-token_model_complete_flow.png)
 
 
 ## 💰 The Bribe Market
@@ -79,7 +79,7 @@ In ve-token models (Aerodrome, Curve, Velodrome), liquidity provision becomes a 
 **Result**: Voters earn 3x more than non-voters
 
 
-![Bribe Efficiency Analysis Chart](images/lessons/lesson_11/lp11_02_bribe_efficiency_analysis_chart.png)
+![Bribe Efficiency Analysis Chart](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_11/lp11_02_bribe_efficiency_analysis_chart.png)
 
 
 ## 🎯 ve-Token Strategy Framework
@@ -129,7 +129,7 @@ In ve-token models (Aerodrome, Curve, Velodrome), liquidity provision becomes a 
 **Returns**: Maximized through self-voting
 
 
-![ve-Token Strategy Levels](images/lessons/lesson_11/lp11_03_ve-token_strategy_levels.png)
+![ve-Token Strategy Levels](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_11/lp11_03_ve-token_strategy_levels.png)
 
 
 ## 📊 Emission Optimization

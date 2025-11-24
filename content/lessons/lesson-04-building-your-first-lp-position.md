@@ -64,7 +64,7 @@ Ask yourself:
    - Check TVL (Total Value Locked)
 
 
-![Pair Selection Decision Tree](images/lessons/lesson_04/lp04_01_pair_selection_decision_tree.png)
+![Pair Selection Decision Tree](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_04/lp04_01_pair_selection_decision_tree.png)
 
 
 ## 🌐 Step 2: Choose Your Network
@@ -108,7 +108,7 @@ Ask yourself:
 **Recommendation**: Start on **Arbitrum** or **Optimism** for best balance of liquidity and low fees.
 
 
-![Network Comparison Chart](images/lessons/lesson_04/lp04_02_network_comparison_chart.png)
+![Network Comparison Chart](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_04/lp04_02_network_comparison_chart.png)
 
 
 ## 💰 Step 3: Calculate Your Position Size
@@ -180,7 +180,7 @@ Position Size = (Portfolio × Risk %) - (Gas Costs × Expected Transactions)
 - ✅ Verify contract addresses before interacting
 
 
-![First Position Setup Checklist](images/lessons/lesson_04/lp04_03_first_position_setup_checklist.png)
+![First Position Setup Checklist](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_04/lp04_03_first_position_setup_checklist.png)
 
 
 ## 📱 Step 5: Navigate Uniswap Interface

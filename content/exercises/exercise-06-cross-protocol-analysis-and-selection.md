@@ -11,11 +11,11 @@
 
 
 
-![Multi-Protocol Portfolio Allocation](images/exercises/exercise_06/ex06_02_multi-protocol_portfolio_allocation.png)
+![Multi-Protocol Portfolio Allocation](https://storage.googleapis.com/liquidity-provision-gitbook-images/exercises/exercise_06/ex06_02_multi-protocol_portfolio_allocation.png)
 
 
 
-![Protocol Comparison Matrix](images/exercises/exercise_06/ex06_01_protocol_comparison_matrix.png)
+![Protocol Comparison Matrix](https://storage.googleapis.com/liquidity-provision-gitbook-images/exercises/exercise_06/ex06_01_protocol_comparison_matrix.png)
 
 ### Protocol Feature Matrix
 

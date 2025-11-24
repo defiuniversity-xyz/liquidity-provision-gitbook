@@ -31,7 +31,7 @@ Instead of providing liquidity across the entire price curve (0 to ∞), V3 lets
 - **Efficiency Gain**: 20x
 
 
-![V2 vs V3 Capital Efficiency Comparison](images/lessons/lesson_05/lp05_01_v2_vs_v3_capital_efficiency_comparison.png)
+![V2 vs V3 Capital Efficiency Comparison](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_05/lp05_01_v2_vs_v3_capital_efficiency_comparison.png)
 
 
 ### The Double-Edged Sword
@@ -86,7 +86,7 @@ Instead of providing liquidity across the entire price curve (0 to ∞), V3 lets
 **Example**: USDC/DAI at $1.00, range $0.999 - $1.001
 
 
-![Range Selection Strategy Matrix](images/lessons/lesson_05/lp05_02_range_selection_strategy_matrix.png)
+![Range Selection Strategy Matrix](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_05/lp05_02_range_selection_strategy_matrix.png)
 
 
 ## 🔢 Understanding Ticks
@@ -128,7 +128,7 @@ To save gas, pools use "tick spacing":
 **Result**: Range might be tick -1000 to tick +1000 (example)
 
 
-![Tick System Visualization](images/lessons/lesson_05/lp05_03_tick_system_visualization.png)
+![Tick System Visualization](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_05/lp05_03_tick_system_visualization.png)
 
 
 ## 💰 Fee Accumulation in V3
@@ -201,7 +201,7 @@ To save gas, pools use "tick spacing":
    - Set appropriate range width
 
 
-![Out-of-Range Scenario Diagram](images/lessons/lesson_05/lp05_04_out-of-range_scenario_diagram.png)
+![Out-of-Range Scenario Diagram](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_05/lp05_04_out-of-range_scenario_diagram.png)
 
 
 ## 🎓 Beginner's Corner: V3 Common Mistakes

@@ -11,11 +11,11 @@
 
 
 
-![ALM Protocol Comparison](images/exercises/exercise_09/ex09_02_alm_protocol_comparison.png)
+![ALM Protocol Comparison](https://storage.googleapis.com/liquidity-provision-gitbook-images/exercises/exercise_09/ex09_02_alm_protocol_comparison.png)
 
 
 
-![Hooks Evaluation Checklist](images/exercises/exercise_09/ex09_01_hooks_evaluation_checklist.png)
+![Hooks Evaluation Checklist](https://storage.googleapis.com/liquidity-provision-gitbook-images/exercises/exercise_09/ex09_01_hooks_evaluation_checklist.png)
 
 ### Hook Types Assessment
 

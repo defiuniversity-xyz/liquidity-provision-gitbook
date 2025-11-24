@@ -11,11 +11,11 @@
 
 
 
-![Hedging Strategy Calculator](images/exercises/exercise_08/ex08_02_hedging_strategy_calculator.png)
+![Hedging Strategy Calculator](https://storage.googleapis.com/liquidity-provision-gitbook-images/exercises/exercise_08/ex08_02_hedging_strategy_calculator.png)
 
 
 
-![Portfolio Risk Assessment Dashboard](images/exercises/exercise_08/ex08_01_portfolio_risk_assessment_dashboard.png)
+![Portfolio Risk Assessment Dashboard](https://storage.googleapis.com/liquidity-provision-gitbook-images/exercises/exercise_08/ex08_01_portfolio_risk_assessment_dashboard.png)
 
 ### Portfolio Risk Analysis
 

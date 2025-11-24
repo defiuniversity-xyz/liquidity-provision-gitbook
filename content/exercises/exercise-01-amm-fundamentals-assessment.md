@@ -44,11 +44,11 @@ Answer these questions to assess your comprehension:
 
 
 
-![Swap Calculation Template](images/exercises/exercise_01/ex01_02_swap_calculation_template.png)
+![Swap Calculation Template](https://storage.googleapis.com/liquidity-provision-gitbook-images/exercises/exercise_01/ex01_02_swap_calculation_template.png)
 
 
 
-![AMM Knowledge Assessment Chart](images/exercises/exercise_01/ex01_01_amm_knowledge_assessment_chart.png)
+![AMM Knowledge Assessment Chart](https://storage.googleapis.com/liquidity-provision-gitbook-images/exercises/exercise_01/ex01_01_amm_knowledge_assessment_chart.png)
 
 **Step 2**: Required USDC to maintain k
 - USDC_new = 20,000,000 ÷ _____ = _____ USDC

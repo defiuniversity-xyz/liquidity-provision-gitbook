@@ -1,7 +1,7 @@
 # Lesson 6: Multi-Protocol Strategy Development
 
 
-![Multi-Protocol Portfolio Allocation](images/lessons/lesson_06/lp06_03_multi-protocol_portfolio_allocation.png)
+![Multi-Protocol Portfolio Allocation](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_06/lp06_03_multi-protocol_portfolio_allocation.png)
 
 
 ## 🎯 Core Concept: One Size Doesn't Fit All
@@ -47,7 +47,7 @@ Different DEX protocols excel in different scenarios. Mastering multiple protoco
 - ❌ Smaller ecosystem
 
 
-![Protocol Comparison Matrix](images/lessons/lesson_06/lp06_01_protocol_comparison_matrix.png)
+![Protocol Comparison Matrix](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_06/lp06_01_protocol_comparison_matrix.png)
 
 
 ## 💰 Aerodrome: The ve-Token Model
@@ -56,7 +56,7 @@ Different DEX protocols excel in different scenarios. Mastering multiple protoco
 
 
 
-![ve-Token Model Flowchart](images/lessons/lesson_06/lp06_02_ve-token_model_flowchart.png)
+![ve-Token Model Flowchart](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_06/lp06_02_ve-token_model_flowchart.png)
 
 Aerodrome uses vote-escrowed tokens (veAERO) to align long-term incentives:
 

@@ -31,7 +31,7 @@ Maximal Extractable Value (MEV) and Just-In-Time (JIT) liquidity are advanced ta
 **Result**: LPs effectively subsidize MEV extraction
 
 
-![MEV Extraction Flowchart](images/lessons/lesson_10/lp10_01_mev_extraction_flowchart.png)
+![MEV Extraction Flowchart](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_10/lp10_01_mev_extraction_flowchart.png)
 
 
 ## ⚡ Just-In-Time (JIT) Liquidity
@@ -89,7 +89,7 @@ Maximal Extractable Value (MEV) and Just-In-Time (JIT) liquidity are advanced ta
 - Minimal JIT impact
 
 
-![JIT Liquidity Attack Diagram](images/lessons/lesson_10/lp10_02_jit_liquidity_attack_diagram.png)
+![JIT Liquidity Attack Diagram](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_10/lp10_02_jit_liquidity_attack_diagram.png)
 
 
 ## 🛡️ Protecting Against MEV/JIT
@@ -134,7 +134,7 @@ Maximal Extractable Value (MEV) and Just-In-Time (JIT) liquidity are advanced ta
 - Lower impact
 
 
-![MEV Protection Strategies](images/lessons/lesson_10/lp10_03_mev_protection_strategies.png)
+![MEV Protection Strategies](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_10/lp10_03_mev_protection_strategies.png)
 
 
 ## 🔬 Advanced Deep-Dive: Participating in MEV
@@ -210,7 +210,7 @@ Maximal Extractable Value (MEV) and Just-In-Time (JIT) liquidity are advanced ta
 - Minimal impact
 
 
-![MEV Impact by Chain](images/lessons/lesson_10/lp10_04_mev_impact_by_chain.png)
+![MEV Impact by Chain](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_10/lp10_04_mev_impact_by_chain.png)
 
 
 ## 🎓 Beginner's Corner: MEV Basics

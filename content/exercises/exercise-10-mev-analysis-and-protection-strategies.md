@@ -11,11 +11,11 @@
 
 
 
-![MEV Protection Strategy Matrix](images/exercises/exercise_10/ex10_02_mev_protection_strategy_matrix.png)
+![MEV Protection Strategy Matrix](https://storage.googleapis.com/liquidity-provision-gitbook-images/exercises/exercise_10/ex10_02_mev_protection_strategy_matrix.png)
 
 
 
-![MEV Impact Assessment Chart](images/exercises/exercise_10/ex10_01_mev_impact_assessment_chart.png)
+![MEV Impact Assessment Chart](https://storage.googleapis.com/liquidity-provision-gitbook-images/exercises/exercise_10/ex10_01_mev_impact_assessment_chart.png)
 
 ### JIT Liquidity Analysis
 

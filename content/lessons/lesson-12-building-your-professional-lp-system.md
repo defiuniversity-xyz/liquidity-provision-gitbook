@@ -39,7 +39,7 @@ A professional LP system integrates all concepts: risk management, multi-protoco
 - Rebalancing protocols
 
 
-![Professional LP System Architecture](images/lessons/lesson_12/lp12_01_professional_lp_system_architecture.png)
+![Professional LP System Architecture](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_12/lp12_01_professional_lp_system_architecture.png)
 
 
 ## 📊 The Professional LP Dashboard
@@ -148,7 +148,7 @@ A professional LP system integrates all concepts: risk management, multi-protoco
    - Plan capital deployment
 
 
-![Operational Workflow Timeline](images/lessons/lesson_12/lp12_03_operational_workflow_timeline.png)
+![Operational Workflow Timeline](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_12/lp12_03_operational_workflow_timeline.png)
 
 
 ## 🤖 Automation Strategies
@@ -187,7 +187,7 @@ A professional LP system integrates all concepts: risk management, multi-protoco
 **Requires**: Technical expertise, significant capital
 
 
-![Automation Levels Framework](images/lessons/lesson_12/lp12_04_automation_levels_framework.png)
+![Automation Levels Framework](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_12/lp12_04_automation_levels_framework.png)
 
 
 ## 📋 Complete System Checklist
@@ -283,7 +283,7 @@ A professional LP system integrates all concepts: risk management, multi-protoco
 **Risk Level**: Managed
 
 
-![LP Playbook Comparison](images/lessons/lesson_12/lp12_02_lp_playbook_comparison.png)
+![LP Playbook Comparison](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_12/lp12_02_lp_playbook_comparison.png)
 
 
 ## 🔬 Advanced Deep-Dive: System Integration

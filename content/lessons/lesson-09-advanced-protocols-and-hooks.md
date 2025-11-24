@@ -35,7 +35,7 @@ Uniswap V4 introduces hooks—customizable smart contracts that execute at key m
 **Benefit**: One less token conversion, lower gas
 
 
-![Uniswap V4 Architecture Diagram](images/lessons/lesson_09/lp09_01_uniswap_v4_architecture_diagram.png)
+![Uniswap V4 Architecture Diagram](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_09/lp09_01_uniswap_v4_architecture_diagram.png)
 
 
 ## 🪝 Understanding Hooks
@@ -81,7 +81,7 @@ Hooks are external smart contracts that execute custom logic at specific points:
 - KYC integration
 
 
-![Hooks System Overview](images/lessons/lesson_09/lp09_02_hooks_system_overview.png)
+![Hooks System Overview](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_09/lp09_02_hooks_system_overview.png)
 
 
 ## 🔧 Hook Architecture
@@ -154,7 +154,7 @@ ALMs are protocols that manage V3/V4 positions automatically:
 **Best For**: LPs who want passive management with professional strategies
 
 
-![ALM Protocol Comparison](images/lessons/lesson_09/lp09_03_alm_protocol_comparison.png)
+![ALM Protocol Comparison](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_09/lp09_03_alm_protocol_comparison.png)
 
 
 ## 🎯 V4 Hook Strategies

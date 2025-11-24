@@ -11,15 +11,15 @@
 
 
 
-![Performance Tracking Dashboard Template](images/exercises/exercise_12/ex12_03_performance_tracking_dashboard_template.png)
+![Performance Tracking Dashboard Template](https://storage.googleapis.com/liquidity-provision-gitbook-images/exercises/exercise_12/ex12_03_performance_tracking_dashboard_template.png)
 
 
 
-![Operational Workflow Timeline](images/exercises/exercise_12/ex12_02_operational_workflow_timeline.png)
+![Operational Workflow Timeline](https://storage.googleapis.com/liquidity-provision-gitbook-images/exercises/exercise_12/ex12_02_operational_workflow_timeline.png)
 
 
 
-![Professional LP System Architecture](images/exercises/exercise_12/ex12_01_professional_lp_system_architecture.png)
+![Professional LP System Architecture](https://storage.googleapis.com/liquidity-provision-gitbook-images/exercises/exercise_12/ex12_01_professional_lp_system_architecture.png)
 
 ### Portfolio Structure
 

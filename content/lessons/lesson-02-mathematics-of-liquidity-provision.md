@@ -38,7 +38,7 @@ $$(x + \Delta x \cdot (1 - \phi)) \cdot (y - \Delta y) = k$$
 The fee is deducted from the input amount before the swap calculation.
 
 
-![Swap Calculation Step-by-Step](images/lessons/lesson_02/lp02_01_swap_calculation_step-by-step.png)
+![Swap Calculation Step-by-Step](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_02/lp02_01_swap_calculation_step-by-step.png)
 
 
 ### Step-by-Step Calculation
@@ -84,7 +84,7 @@ For the example above:
 
 The constant product formula creates a **hyperbolic price curve**:
 
-![Price Curve Visualization](images/lessons/lesson_02/lp02_02_price_curve_visualization.png)
+![Price Curve Visualization](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_02/lp02_02_price_curve_visualization.png)
 
 **Characteristics**:
 - As x approaches 0, price approaches infinity
@@ -158,7 +158,7 @@ In Uniswap V2, liquidity is distributed across the entire price curve (0 to ∞)
 This inefficiency led to Uniswap V3's concentrated liquidity (Lesson 5).
 
 
-![Liquidity Depth Comparison Chart](images/lessons/lesson_02/lp02_03_liquidity_depth_comparison_chart.png)
+![Liquidity Depth Comparison Chart](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_02/lp02_03_liquidity_depth_comparison_chart.png)
 
 
 ## 🧮 Fee Mathematics
@@ -216,7 +216,7 @@ $$\text{APY} = \left(\frac{\text{Your Earnings}}{\text{Your Capital}} \times 365
 ⚠️ **Critical Warning**: This APY doesn't account for impermanent loss, which can easily exceed 100% in volatile markets!
 
 
-![Fee Accumulation Timeline](images/lessons/lesson_02/lp02_04_fee_accumulation_timeline.png)
+![Fee Accumulation Timeline](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_02/lp02_04_fee_accumulation_timeline.png)
 
 
 ## 🔬 Advanced Deep-Dive: Mathematical Properties

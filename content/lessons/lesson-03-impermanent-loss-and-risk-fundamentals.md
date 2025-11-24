@@ -96,7 +96,7 @@ So you're actually **better off** in the LP when price drops? No—let's think a
 You still lost money compared to holding, just less than if you held only ETH.
 
 
-![IL Mechanism Step-by-Step](images/lessons/lesson_03/lp03_03_il_mechanism_step-by-step.png)
+![IL Mechanism Step-by-Step](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_03/lp03_03_il_mechanism_step-by-step.png)
 
 
 ## 📈 The Impermanent Loss Formula
@@ -126,7 +126,7 @@ $$IL\% = 2 \times \frac{\sqrt{r}}{1 + r} - 1$$
 
 ### Visual Representation
 
-![Impermanent Loss Curve](images/lessons/lesson_03/lp03_01_impermanent_loss_curve.png)
+![Impermanent Loss Curve](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_03/lp03_01_impermanent_loss_curve.png)
 
 The curve shows:
 - IL is symmetric (same loss for +50% and -50% moves)
@@ -180,7 +180,7 @@ This determines if LPing is profitable.
 **Reality**: In volatile markets, IL often exceeds fees, making LPing unprofitable.
 
 
-![IL vs Fees Break-Even Analysis](images/lessons/lesson_03/lp03_02_il_vs_fees_break-even_analysis.png)
+![IL vs Fees Break-Even Analysis](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_03/lp03_02_il_vs_fees_break-even_analysis.png)
 
 
 ## 🎯 Risk Factors That Increase IL
@@ -307,7 +307,7 @@ In high-volatility pools:
 This is why professional LPs hedge their positions.
 
 
-![LVR vs IL Comparison](images/lessons/lesson_03/lp03_04_lvr_vs_il_comparison.png)
+![LVR vs IL Comparison](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_03/lp03_04_lvr_vs_il_comparison.png)
 
 
 ## 🎓 Beginner's Corner: IL Myths Debunked

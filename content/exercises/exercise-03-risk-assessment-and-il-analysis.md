@@ -11,15 +11,15 @@
 
 
 
-![Risk Assessment Matrix](images/exercises/exercise_03/ex03_03_risk_assessment_matrix.png)
+![Risk Assessment Matrix](https://storage.googleapis.com/liquidity-provision-gitbook-images/exercises/exercise_03/ex03_03_risk_assessment_matrix.png)
 
 
 
-![IL vs Fees Break-Even Chart](images/exercises/exercise_03/ex03_02_il_vs_fees_break-even_chart.png)
+![IL vs Fees Break-Even Chart](https://storage.googleapis.com/liquidity-provision-gitbook-images/exercises/exercise_03/ex03_02_il_vs_fees_break-even_chart.png)
 
 
 
-![IL Calculation Worksheet](images/exercises/exercise_03/ex03_01_il_calculation_worksheet.png)
+![IL Calculation Worksheet](https://storage.googleapis.com/liquidity-provision-gitbook-images/exercises/exercise_03/ex03_01_il_calculation_worksheet.png)
 
 ### Basic IL Scenarios
 

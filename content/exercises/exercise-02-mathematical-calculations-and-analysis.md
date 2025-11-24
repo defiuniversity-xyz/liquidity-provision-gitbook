@@ -11,11 +11,11 @@
 
 
 
-![Fee vs Gas Break-Even Calculator](images/exercises/exercise_02/ex02_02_fee_vs_gas_break-even_calculator.png)
+![Fee vs Gas Break-Even Calculator](https://storage.googleapis.com/liquidity-provision-gitbook-images/exercises/exercise_02/ex02_02_fee_vs_gas_break-even_calculator.png)
 
 
 
-![Formula Mastery Checklist](images/exercises/exercise_02/ex02_01_formula_mastery_checklist.png)
+![Formula Mastery Checklist](https://storage.googleapis.com/liquidity-provision-gitbook-images/exercises/exercise_02/ex02_01_formula_mastery_checklist.png)
 
 ### Constant Product Formula Practice
 

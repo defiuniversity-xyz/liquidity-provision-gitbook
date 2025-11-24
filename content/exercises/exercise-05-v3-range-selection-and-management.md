@@ -11,11 +11,11 @@
 
 
 
-![Out-of-Range Decision Framework](images/exercises/exercise_05/ex05_02_out-of-range_decision_framework.png)
+![Out-of-Range Decision Framework](https://storage.googleapis.com/liquidity-provision-gitbook-images/exercises/exercise_05/ex05_02_out-of-range_decision_framework.png)
 
 
 
-![Range Selection Strategy Matrix](images/exercises/exercise_05/ex05_01_range_selection_strategy_matrix.png)
+![Range Selection Strategy Matrix](https://storage.googleapis.com/liquidity-provision-gitbook-images/exercises/exercise_05/ex05_01_range_selection_strategy_matrix.png)
 
 ### Range Width Decision Framework
 

@@ -24,7 +24,7 @@ Professional LPs don't just earn fees—they manage risk. This lesson teaches ad
 - Mitigated by: Audited protocols, diversification
 
 
-![Three Types of Risk Framework](images/lessons/lesson_08/lp08_01_three_types_of_risk_framework.png)
+![Three Types of Risk Framework](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_08/lp08_01_three_types_of_risk_framework.png)
 
 
 ## 📊 Delta Hedging Strategy
@@ -90,7 +90,7 @@ Professional LPs don't just earn fees—they manage risk. This lesson teaches ad
 - ❌ Can't afford borrowing
 
 
-![Delta Hedging Strategy Diagram](images/lessons/lesson_08/lp08_02_delta_hedging_strategy_diagram.png)
+![Delta Hedging Strategy Diagram](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_08/lp08_02_delta_hedging_strategy_diagram.png)
 
 
 ## 🔄 Portfolio Risk Management
@@ -126,7 +126,7 @@ Professional LPs don't just earn fees—they manage risk. This lesson teaches ad
 - Reserve: $70k (70%)
 
 
-![Portfolio Risk Limits Framework](images/lessons/lesson_08/lp08_03_portfolio_risk_limits_framework.png)
+![Portfolio Risk Limits Framework](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_08/lp08_03_portfolio_risk_limits_framework.png)
 
 
 ## 🎯 LVR Mitigation Strategies
@@ -197,7 +197,7 @@ Professional LPs don't just earn fees—they manage risk. This lesson teaches ad
 - **Net: Premium + capped gains**
 
 
-![Options Hedging Strategies](images/lessons/lesson_08/lp08_04_options_hedging_strategies.png)
+![Options Hedging Strategies](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_08/lp08_04_options_hedging_strategies.png)
 
 
 ## 📈 Risk Monitoring Dashboard
