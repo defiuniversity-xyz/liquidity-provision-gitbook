@@ -1,6 +1,6 @@
-{% embed url="https://storage.googleapis.com/liquidity-provision-media/lesson-04/audio/lesson4 Blueprint_Your_First_Safe_DEX_Liquidity_Position.m4a" %}
+{% embed url="https://storage.googleapis.com/liquidity-provision-media/lesson-04/audio/lesson4%20Blueprint_Your_First_Safe_DEX_Liquidity_Position.m4a" %}
 
-{% embed url="https://storage.googleapis.com/liquidity-provision-media/lesson-04/video/lesson4 Your_First_DeFi_Expedition.mp4" %}
+{% embed url="https://storage.googleapis.com/liquidity-provision-media/lesson-04/video/lesson4%20Your_First_DeFi_Expedition.mp4" %}
 
 # Lesson 4: Building Your First LP Position
 

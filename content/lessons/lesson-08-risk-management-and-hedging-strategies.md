@@ -1,6 +1,6 @@
-{% embed url="https://storage.googleapis.com/liquidity-provision-media/lesson-08/audio/lesson8 DeFi_Risk_Management_Portfolio_Fortification_Strategy.m4a" %}
+{% embed url="https://storage.googleapis.com/liquidity-provision-media/lesson-08/audio/lesson8%20DeFi_Risk_Management_Portfolio_Fortification_Strategy.m4a" %}
 
-{% embed url="https://storage.googleapis.com/liquidity-provision-media/lesson-08/video/lesson8 Pro_LP_s_Guide_to_Risk.mp4" %}
+{% embed url="https://storage.googleapis.com/liquidity-provision-media/lesson-08/video/lesson8%20Pro_LP_s_Guide_to_Risk.mp4" %}
 
 # Lesson 8: Risk Management and Hedging Strategies
 

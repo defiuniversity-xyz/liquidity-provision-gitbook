@@ -1,6 +1,6 @@
-{% embed url="https://storage.googleapis.com/liquidity-provision-media/lesson-11/audio/lesson11 Mastering_veToken_Protocol_Governance_Strategy.m4a" %}
+{% embed url="https://storage.googleapis.com/liquidity-provision-media/lesson-11/audio/lesson11%20Mastering_veToken_Protocol_Governance_Strategy.m4a" %}
 
-{% embed url="https://storage.googleapis.com/liquidity-provision-media/lesson-11/video/lesson11 Mastering_ve-Token_Governance.mp4" %}
+{% embed url="https://storage.googleapis.com/liquidity-provision-media/lesson-11/video/lesson11%20Mastering_ve-Token_Governance.mp4" %}
 
 # Lesson 11: Governance and Incentive Optimization
 

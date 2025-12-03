@@ -1,6 +1,6 @@
-{% embed url="https://storage.googleapis.com/liquidity-provision-media/lesson-01/audio/lesson1 AMM_Explained_The_$x__cdot_y_=_k$_Formula.m4a" %}
+{% embed url="https://storage.googleapis.com/liquidity-provision-media/lesson-01/audio/lesson1%20AMM_Explained_The_%24x__cdot_y_%3D_k%24_Formula.m4a" %}
 
-{% embed url="https://storage.googleapis.com/liquidity-provision-media/lesson-01/video/lesson1 Automated_Market_Makers.mp4" %}
+{% embed url="https://storage.googleapis.com/liquidity-provision-media/lesson-01/video/lesson1%20Automated_Market_Makers.mp4" %}
 
 # Lesson 1: Understanding AMM Fundamentals
 

@@ -6,6 +6,7 @@ Add audio and video embed tags to the top of each lesson file.
 import re
 from pathlib import Path
 from typing import Optional, Tuple
+from urllib.parse import quote
 
 # Configuration
 SCRIPT_DIR = Path(__file__).parent
@@ -42,10 +43,12 @@ def find_media_file(lesson_num: int, media_dir: Path, extension: str) -> Optiona
     return None
 
 def generate_gcs_url(lesson_num: int, filename: str, media_type: str) -> str:
-    """Generate GCS URL for a media file"""
+    """Generate GCS URL for a media file with proper URL encoding"""
     lesson_slug = f"lesson-{lesson_num:02d}"
     folder = "audio" if media_type == "audio" else "video"
-    return f"https://storage.googleapis.com/{BUCKET_NAME}/{lesson_slug}/{folder}/{filename}"
+    # URL-encode the filename to handle special characters (spaces, $, =, etc.)
+    encoded_filename = quote(filename, safe='')
+    return f"https://storage.googleapis.com/{BUCKET_NAME}/{lesson_slug}/{folder}/{encoded_filename}"
 
 def has_existing_embeds(content: str) -> bool:
     """Check if file already has embed tags at the top"""

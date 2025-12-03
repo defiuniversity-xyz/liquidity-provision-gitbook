@@ -1,6 +1,6 @@
-{% embed url="https://storage.googleapis.com/liquidity-provision-media/lesson-07/audio/lesson7 Calculate_Your_Net_DeFi_LP_Profitability.m4a" %}
+{% embed url="https://storage.googleapis.com/liquidity-provision-media/lesson-07/audio/lesson7%20Calculate_Your_Net_DeFi_LP_Profitability.m4a" %}
 
-{% embed url="https://storage.googleapis.com/liquidity-provision-media/lesson-07/video/lesson7 The_Hidden_Cost_of_High_APYs.mp4" %}
+{% embed url="https://storage.googleapis.com/liquidity-provision-media/lesson-07/video/lesson7%20The_Hidden_Cost_of_High_APYs.mp4" %}
 
 # Lesson 7: Fee Optimization and Gas Economics
 

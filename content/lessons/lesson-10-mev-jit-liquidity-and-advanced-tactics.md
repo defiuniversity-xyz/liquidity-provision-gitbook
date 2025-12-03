@@ -1,6 +1,6 @@
-{% embed url="https://storage.googleapis.com/liquidity-provision-media/lesson-10/audio/lesson10 Stop_Just-In-Time_Liquidity_Stealing_LP_Fees.m4a" %}
+{% embed url="https://storage.googleapis.com/liquidity-provision-media/lesson-10/audio/lesson10%20Stop_Just-In-Time_Liquidity_Stealing_LP_Fees.m4a" %}
 
-{% embed url="https://storage.googleapis.com/liquidity-provision-media/lesson-10/video/lesson10 MEV_&_JIT_Liquidity.mp4" %}
+{% embed url="https://storage.googleapis.com/liquidity-provision-media/lesson-10/video/lesson10%20MEV_%26_JIT_Liquidity.mp4" %}
 
 # Lesson 10: MEV, JIT Liquidity, and Advanced Tactics
 
