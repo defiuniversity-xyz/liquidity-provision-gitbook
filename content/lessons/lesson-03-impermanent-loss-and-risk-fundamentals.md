@@ -1,4 +1,5 @@
 {% embed url="https://storage.googleapis.com/liquidity-provision-media/lesson-03/audio/lesson3 Stop_Losing_Money_To_Impermanent_Loss.m4a" %}
+
 {% embed url="https://storage.googleapis.com/liquidity-provision-media/lesson-03/video/lesson3 The_Hidden_Cost_of_High_APYs.mp4" %}
 
 # Lesson 3: Impermanent Loss and Risk Fundamentals

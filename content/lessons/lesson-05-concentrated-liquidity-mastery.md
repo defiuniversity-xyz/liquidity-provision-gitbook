@@ -1,4 +1,5 @@
 {% embed url="https://storage.googleapis.com/liquidity-provision-media/lesson-05/audio/lesson5 Mastering_Uniswap_V3_Concentrated_Liquidity_Risks.m4a" %}
+
 {% embed url="https://storage.googleapis.com/liquidity-provision-media/lesson-05/video/lesson5 Uniswap_V3__The_4000x_Edge.mp4" %}
 
 # Lesson 5: Concentrated Liquidity Mastery

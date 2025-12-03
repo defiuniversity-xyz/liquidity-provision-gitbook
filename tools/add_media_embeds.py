@@ -94,8 +94,12 @@ def add_embeds_to_lesson(lesson_file: Path) -> Tuple[bool, str]:
     if not embeds:
         return False, f"No embed tags generated for lesson {lesson_num}"
     
-    # Add embeds at the top, with a blank line after
-    embed_block = '\n'.join(embeds) + '\n\n'
+    # Add embeds at the top with blank lines between (matching investor mindset format)
+    # Format: audio embed, blank line, video embed, blank line, content
+    if len(embeds) == 2:
+        embed_block = embeds[0] + '\n\n' + embeds[1] + '\n\n'
+    else:
+        embed_block = '\n\n'.join(embeds) + '\n\n'
     new_content = embed_block + content
     
     # Write back to file

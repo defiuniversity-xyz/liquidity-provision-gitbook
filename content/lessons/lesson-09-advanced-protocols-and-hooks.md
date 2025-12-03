@@ -1,4 +1,5 @@
 {% embed url="https://storage.googleapis.com/liquidity-provision-media/lesson-09/audio/lesson9 Uniswap_V4_Hooks_Flash_Accounting_Explained.m4a" %}
+
 {% embed url="https://storage.googleapis.com/liquidity-provision-media/lesson-09/video/lesson9 V4__Programmable_Liquidity.mp4" %}
 
 # Lesson 9: Advanced Protocols and Hooks

@@ -1,4 +1,5 @@
 {% embed url="https://storage.googleapis.com/liquidity-provision-media/lesson-02/audio/lesson2 Automated_Market_Maker_Math_Constant_Product_Explained.m4a" %}
+
 {% embed url="https://storage.googleapis.com/liquidity-provision-media/lesson-02/video/lesson2 AMM_Math__The_Crypto_Code.mp4" %}
 
 # Lesson 2: The Mathematics of Liquidity Provision

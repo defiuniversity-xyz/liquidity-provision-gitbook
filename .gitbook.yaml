@@ -1,5 +1,30 @@
+# GitBook Configuration
 root: ./content
+
 structure:
   readme: README.md
   summary: SUMMARY.md
+
+# Redirects (add as needed)
+redirects: {}
+
+# PDF export settings
+# Note: PDF export must be enabled in GitBook dashboard settings
+
+# Branding Configuration
+# Note: Most branding (logo, colors, themes) is configured through the GitBook dashboard:
+# Dashboard → Space Settings → Appearance
+
+# GitBook metadata (useful for SEO and branding)
+metadata:
+  title: "DeFi University - Liquidity Provision Course"
+  description: "Master professional DeFi liquidity provision strategies, risk management, and multi-protocol optimization"
+
+# Links (configure in dashboard for header/footer)
+# These are configured in: Dashboard → Space Settings → Appearance → Header & Footer
+
+# Variables for consistent branding
+variables:
+  university_name: "DeFi University"
+  course_name: "Liquidity Provision Course"
 

@@ -1,4 +1,5 @@
 {% embed url="https://storage.googleapis.com/liquidity-provision-media/lesson-12/audio/lesson12 Blueprint_to_Professional_DeFi_Liquidity_Provision.m4a" %}
+
 {% embed url="https://storage.googleapis.com/liquidity-provision-media/lesson-12/video/lesson12 Professional_LP__A_Blueprint.mp4" %}
 
 # Lesson 12: Building Your Professional LP System
