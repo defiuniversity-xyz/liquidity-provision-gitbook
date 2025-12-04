@@ -69,6 +69,10 @@ def upload_file(file_path, lesson_slug=None):
     if mime_type is None:
         mime_type = 'application/octet-stream'
     
+    # Fix for .m4a files - GitBook requires audio/mp4 to render playable audio players
+    if file_path_obj.suffix.lower() == '.m4a':
+        mime_type = 'audio/mp4'
+    
     # 3. Determine file type and folder organization
     if "video" in mime_type:
         folder = "video"
