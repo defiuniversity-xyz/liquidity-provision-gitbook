@@ -128,6 +128,16 @@ $$IL\% = 2 \times \frac{\sqrt{r}}{1 + r} - 1$$
 
 **Key Insight**: IL grows exponentially with price divergence. A 2x price move causes 20% IL. A 4x move causes 50% IL!
 
+---
+
+## 🧮 Interactive: Impermanent Loss Calculator
+
+Use this calculator to see exactly how IL affects your position at different price changes:
+
+{% embed url="https://defi-university-app.web.app/interactives/il-calculator.html?course=liquidity-provision&id=il-calculator-lesson3" %}
+
+---
+
 ### Visual Representation
 
 ![Impermanent Loss Curve](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_03/lp03_01_impermanent_loss_curve.png)
@@ -354,6 +364,16 @@ This is why professional LPs hedge their positions.
 5. **Can I afford the IL?**
    - Calculate worst-case IL scenarios
    - Ensure you can handle the loss
+
+---
+
+## 📝 Interactive: Key Terms Flashcards
+
+Review the key terms and concepts from this lesson:
+
+{% embed url="https://defi-university-app.web.app/interactives/flashcards.html?course=liquidity-provision&id=flashcards-lesson3&topic=Impermanent%20Loss%20Terms" %}
+
+---
 
 ## 🎯 Key Takeaways
 

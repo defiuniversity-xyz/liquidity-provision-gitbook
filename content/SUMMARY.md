@@ -12,6 +12,7 @@
   * [Exercise 3: Risk Assessment and IL Analysis](exercises/exercise-03-risk-assessment-and-il-analysis.md)
 * [Lesson 4: Building Your First LP Position](lessons/lesson-04-building-your-first-lp-position.md)
   * [Exercise 4: First Position Setup and Management](exercises/exercise-04-first-position-setup-and-management.md)
+* [Module 1 Quiz: Foundation Building](quizzes/quiz-module-01.md)
 
 ## Module 2: Advanced Mechanics
 
@@ -23,6 +24,7 @@
   * [Exercise 7: Fee Tier Selection and Gas Optimization](exercises/exercise-07-fee-tier-selection-and-gas-optimization.md)
 * [Lesson 8: Risk Management and Hedging Strategies](lessons/lesson-08-risk-management-and-hedging-strategies.md)
   * [Exercise 8: Advanced Risk Management Framework](exercises/exercise-08-advanced-risk-management-framework.md)
+* [Module 2 Quiz: Advanced Mechanics](quizzes/quiz-module-02.md)
 
 ## Module 3: Elite Operations
 
@@ -34,4 +36,5 @@
   * [Exercise 11: Governance Participation and Yield Maximization](exercises/exercise-11-governance-participation-and-yield-maximization.md)
 * [Lesson 12: Building Your Professional LP System](lessons/lesson-12-building-your-professional-lp-system.md)
   * [Exercise 12: Complete LP System Integration](exercises/exercise-12-complete-lp-system-integration.md)
+* [Module 3 Quiz: Elite Operations](quizzes/quiz-module-03.md)
 

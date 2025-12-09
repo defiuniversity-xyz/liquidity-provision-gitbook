@@ -222,6 +222,16 @@ $$\text{APY} = \left(\frac{\text{Your Earnings}}{\text{Your Capital}} \times 365
 
 ![Fee Accumulation Timeline](https://storage.googleapis.com/liquidity-provision-gitbook-images/lessons/lesson_02/lp02_04_fee_accumulation_timeline.png)
 
+---
+
+## 🧮 Interactive: Fee & APR Estimator
+
+Use this calculator to estimate your potential fee earnings based on position size, pool TVL, volume, and fee tier:
+
+{% embed url="https://defi-university-app.web.app/interactives/fee-estimator.html?course=liquidity-provision&id=fee-estimator-lesson2" %}
+
+---
+
 
 ## 🔬 Advanced Deep-Dive: Mathematical Properties
 
@@ -312,6 +322,16 @@ Let's work through a complete example:
 **Mistake 4**: Not accounting for pool depth
 - **Wrong**: "I'll trade $100k in this $10k pool"
 - **Right**: Check pool depth first. Your trade might move price 50%+.
+
+---
+
+## 🧮 Interactive: LP Position Calculator
+
+Use this tool to calculate your expected pool share, daily fees, and estimated APR:
+
+{% embed url="https://defi-university-app.web.app/interactives/lp-calculator.html?course=liquidity-provision&id=lp-calculator-lesson2" %}
+
+---
 
 ## 🎯 Key Takeaways
 

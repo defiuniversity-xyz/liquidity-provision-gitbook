@@ -420,6 +420,16 @@ Volume/TVL Ratio = Daily Volume ÷ Total Value Locked
 
 **Decision**: Continue position, or move to V3 for higher efficiency (Lesson 5).
 
+---
+
+## 📝 Interactive: Module 1 Self-Assessment
+
+Before completing Module 1, assess your readiness to build your first LP position:
+
+{% embed url="https://defi-university-app.web.app/interactives/self-assessment.html?course=liquidity-provision&id=self-assessment-lesson4&topic=First%20LP%20Position%20Readiness" %}
+
+---
+
 ## 🎯 Key Takeaways
 
 1. **Start with stablecoins** on L2 for lowest risk

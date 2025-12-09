@@ -235,6 +235,16 @@ The fundamental issue with constant product AMMs is **capital inefficiency**:
 
 This problem led to Uniswap V3's concentrated liquidity (covered in Lesson 5).
 
+---
+
+## 🧮 Interactive: Price Impact Simulator
+
+Use this interactive tool to experiment with the constant product formula and see how trades affect pool prices:
+
+{% embed url="https://defi-university-app.web.app/interactives/price-simulator.html?course=liquidity-provision&id=price-simulator-lesson1" %}
+
+---
+
 ## 📊 Real-World Example: Uniswap V2 ETH/USDC Pool
 
 Let's examine a real pool to understand the mechanics:
@@ -262,6 +272,16 @@ Let's examine a real pool to understand the mechanics:
 - Price volatility reducing your ETH holdings
 
 **Net Result**: Your actual return might be 5-8% APY, or even negative in volatile markets.
+
+---
+
+## 📝 Interactive: Knowledge Check
+
+Before moving on, complete this self-assessment to gauge your understanding of AMM fundamentals:
+
+{% embed url="https://defi-university-app.web.app/interactives/self-assessment.html?course=liquidity-provision&id=self-assessment-lesson1&topic=AMM%20Fundamentals" %}
+
+---
 
 ## 🎯 Key Takeaways
 
